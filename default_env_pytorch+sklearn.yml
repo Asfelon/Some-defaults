@@ -3,7 +3,6 @@ channels:
   - r
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=main
   - _pytorch_select=0.2=gpu_0
   - _r-mutex=1.0.0=anacondar_1
   - async_generator=1.10=py_0
@@ -23,8 +22,6 @@ dependencies:
   - cudnn=7.6.5=cuda10.0_0
   - curl=7.69.1=hbc83047_0
   - cycler=0.10.0=py37_0
-  - dbus=1.13.18=hb2f20db_0
-  - decorator=4.4.2=py_0
   - defusedxml=0.6.0=py_0
   - entrypoints=0.3=py37_0
   - expat=2.2.10=he6710b0_2
